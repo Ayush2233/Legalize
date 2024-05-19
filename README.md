@@ -6,5 +6,3 @@ This is a platform where users can generate Legal Documents according to their n
 
 ## Screenshots of Project
 
-## Demo Video
-
