@@ -15,10 +15,10 @@ libre.convertAsync = require('util').promisify(libre.convert);
 const admin = require('firebase-admin');
 
 // Initialize Firebase Admin SDK
-const serviceAccount = require('../legalize-e194b-firebase-adminsdk-2hy8y-1c20a8f69a.json');
+const serviceAccount = require('your firebase json');
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    storageBucket: 'gs://legalize-e194b.appspot.com'
+    storageBucket: 'storage bucket url'
 });
 
 let createDocument = async function(data,name) {

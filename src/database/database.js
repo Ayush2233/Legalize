@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const uri = 'mongodb+srv://kritibanka21cse:docgen0705@docgen.t2c1e7e.mongodb.net/';
+const uri = 'mongo uri';
 
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 
