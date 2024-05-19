@@ -1,0 +1,33 @@
+/* my-pspdfkit.css */
+.PSPDFKit-Toolbar 
+{
+    background-color: #26547C;
+    color: #ffcc00;
+}
+
+.PSPDFKit-Toolbar span
+{
+    color: #ffcc00;
+}
+
+
+
+.PSPDFKit-Toolbar-Button-Sidebar
+{
+    color: white;
+}
+
+.PSPDFKit-Page-Indicator-Prev,.PSPDFKit-Page-Indicator-Next,.PSPDFKit-Page-Indicator-Input
+{
+    background-color: #232527
+    
+}
+.PSPDFKit-Page-Indicator-Input
+{
+    color: aliceblue;
+}
+
+.PSPDFKit-8nyvpcm5qq23nzqvwdfzqayryh:hover
+{
+    color: black;
+}
